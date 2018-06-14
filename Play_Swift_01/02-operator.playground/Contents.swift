@@ -54,3 +54,8 @@ batteryColor = battery <= 20 ? UIColor.red : UIColor.blue
 for index in 1...10{
     index
 }
+var array = [ "a" , "b" , "c" , "aa" , "bb" , "cc" ]
+for item in 0..<array.count {
+    print(array[item])
+}
+
