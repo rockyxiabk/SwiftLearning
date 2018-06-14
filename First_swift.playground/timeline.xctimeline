@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/rocky/XcodePlayGround/First_swift.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=106&amp;EndingColumnNumber=10&amp;EndingLineNumber=6&amp;StartingColumnNumber=5&amp;StartingLineNumber=6&amp;Timestamp=550582218.708239"
+         lockedSize = "{186, 132}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/rocky/XcodePlayGround/First_swift.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=151&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=5&amp;StartingLineNumber=10&amp;Timestamp=550582218.708415"
+         lockedSize = "{651, 137}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/rocky/XcodePlayGround/First_swift.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=162&amp;EndingColumnNumber=6&amp;EndingLineNumber=11&amp;StartingColumnNumber=5&amp;StartingLineNumber=11&amp;Timestamp=550582218.708533"
+         lockedSize = "{358, 144}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
