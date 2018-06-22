@@ -7,9 +7,11 @@ var skillsOfA : Set<String> = ["swift","OC"]
 // 空集合
 var emptySet1: Set<String> = []
 var emptySet2 = Set<String>()
+var e1 = Set<String>()
+var e2 : Set<String> = []
 
 var vowels = Set(["A","E","I","O","U"])
-// var vowels = Set<String>(["A","E","I","O","U"])
+//var vowels1 = Set<String>(["A","E","I","O","U"])
 
 var skillsOfB: Set = ["HTML","CSS","Javascript"]
 
@@ -28,7 +30,6 @@ emptySet1.isEmpty
 
 // 快速获得集合中的一个元素
 skillsOfA.first
-
 
 // 包含
 skillsOfA.contains("swift")
